@@ -7,4 +7,4 @@ There Objects:
     Bullet
     Enemies
   
-Simple SpaceCraft game which you can crush enemies.
+Simple 2D SpaceCraft game developed in C++ in which you can crush enemies.
