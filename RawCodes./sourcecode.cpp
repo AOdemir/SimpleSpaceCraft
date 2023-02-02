@@ -52,7 +52,6 @@ class Ates
 };
 
 
-
 Ucak ucak;
 
 Dusman dusman[100];
