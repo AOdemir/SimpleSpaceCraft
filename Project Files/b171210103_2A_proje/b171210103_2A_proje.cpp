@@ -8,7 +8,6 @@ using namespace std;
 
 class Ucak
 {
-
 public:
 
 	char ucakParcasi[5];
@@ -23,7 +22,6 @@ public:
 		ucakParcasi[3] = 178;
 		ucakParcasi[4] = 178;
 	}
-
 };
 
 class Dusman
@@ -48,9 +46,7 @@ class Ates
 		{
 			int Y = 10;
 		}
-
 };
-
 
 
 Ucak ucak;
@@ -77,7 +73,6 @@ char		sahne[sahneGenisligi][sahneYuksekligi];
 char		tuslar[256];
 
 
-
 void gotoxy(int x,int y)
 {
 	COORD coord;
@@ -98,8 +93,6 @@ void kursoruGizle()
 	cursorInfo.bVisible = false;
 	SetConsoleCursorInfo(out, &cursorInfo);
 }
-
-
 
 void sahneyiCiz()
 {
@@ -154,7 +147,6 @@ void ucakYerlestir(Ucak ucak)
 
 
 //																	DUSMAN FOKSIYONLARI
-
 
 void dusmanlariCiz()
 {
@@ -263,7 +255,6 @@ void atesDusmaniVurdu()
 	
 }
 
-
 void klavyeOku(char tuslar[])
 {
 	for (int x = 0; x < 256; x++)
@@ -285,8 +276,6 @@ void klavyeKontrol()
 	}*/
 
 }
-
-
 
 int main()
 {
