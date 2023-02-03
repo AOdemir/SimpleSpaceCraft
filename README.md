@@ -1,6 +1,10 @@
 # SimpleSpaceCraft
 
-This has been built to be 2D Space Craft Game Logic. Enemies are coming with a perion and you can use your gun to eliminate them and remain playing. This project uses Windows.h library to manipulate screen bytes so that it can mimic the caracters within it visually.
+This project has been built to be a 2D Space Craft Game as Logic.
+
+Enemies are coming periodically on X axis and you can use your gun to eliminate them to keep going.
+
+This project uses Windows.h library to manipulate screen bytes so that it can mimic the caracters within console.
 
 Objects:
     Space Craft, 
