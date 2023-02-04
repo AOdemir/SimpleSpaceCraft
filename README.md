@@ -6,9 +6,9 @@
 
 *This project uses Windows.h library to manipulate screen bytes so that it can mimic the caracters within console.
 
-<l>Objects:
+<t><l>Objects:
     <l1>Space Craft,</l1> 
     <l2>Bullets,</l2>
     <l3>Enemies,</l3>
-  </l>
+  </l><t1>
 <p>Simple 2D SpaceCraft game developed in C++ in which you can crush enemies.</p>
