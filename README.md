@@ -11,4 +11,4 @@
     Bullets,
     Enemies,
   
-Simple 2D SpaceCraft game developed in C++ in which you can crush enemies.
+<p>Simple 2D SpaceCraft game developed in C++ in which you can crush enemies.</p>
